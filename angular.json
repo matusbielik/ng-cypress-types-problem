@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-minimal-repo"
+    }
+  },
+  "defaultProject": "ng-minimal-repo",
+  "cli": {
+    "analytics": false
+  }
 }
